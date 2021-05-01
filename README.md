@@ -110,7 +110,7 @@ c.Search = "great"
 
 # Run
 twint.run.Search(c)
-```
+```'
 > Output
 
 `955511208597184512 2018-01-22 18:43:19 GMT <now> pineapples are the best fruit`
